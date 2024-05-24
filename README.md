@@ -4,4 +4,4 @@
 
 The task given was for us students to create a simple app using React Native on Expo go.
 I used inline style, first setting my background colour to teal and adding padding and flex properties.
-Then I added a text, with my name bolded, using the style property.
+Then I added a text enlarged with fontSize property, with my name bolded, using the fontWeight property.
